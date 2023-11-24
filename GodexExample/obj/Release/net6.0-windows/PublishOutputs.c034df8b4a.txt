@@ -1,0 +1,5 @@
+C:\Users\Beckhoff\Desktop\Print Barcode\GodexExample.exe
+C:\Users\Beckhoff\Desktop\Print Barcode\GodexExample.dll
+C:\Users\Beckhoff\Desktop\Print Barcode\GodexExample.deps.json
+C:\Users\Beckhoff\Desktop\Print Barcode\GodexExample.runtimeconfig.json
+C:\Users\Beckhoff\Desktop\Print Barcode\GodexExample.pdb

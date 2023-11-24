@@ -1,0 +1,17 @@
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\bin\Release\net6.0-windows\GodexExample.exe
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\bin\Release\net6.0-windows\GodexExample.deps.json
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\bin\Release\net6.0-windows\GodexExample.runtimeconfig.json
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\bin\Release\net6.0-windows\GodexExample.dll
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\bin\Release\net6.0-windows\GodexExample.pdb
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.csproj.AssemblyReference.cache
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.Form1.resources
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.csproj.GenerateResource.cache
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.AssemblyInfoInputs.cache
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.AssemblyInfo.cs
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.csproj.CoreCompileInputs.cache
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.dll
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\refint\GodexExample.dll
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.pdb
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\GodexExample.genruntimeconfig.cache
+C:\Users\Beckhoff\Desktop\MKC_Sim\GodexExample\obj\Release\net6.0-windows\ref\GodexExample.dll

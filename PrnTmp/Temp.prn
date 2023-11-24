@@ -1,0 +1,22 @@
+^XSETCUT,DOUBLECUT,0
+^Q20,2.75
+^W40
+^H8
+^P1
+^S3
+^AT
+^C1
+^R0
+~Q+0
+^O0
+^D0
+^E12
+~R255
+^L
+AB,12,133,1,1,0,0,SN:*Line1*
+AB,143,69,1,1,0,0,DT:*Line2*
+AB,143,97,1,1,0,0,Name:*Line3*
+Y144,13,Mebak Makine
+XRB8,16,8,0,*Line4*
+*Line1*
+E

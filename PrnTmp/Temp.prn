@@ -16,7 +16,7 @@
 AB,12,133,1,1,0,0,SN:*Line1*
 AB,143,69,1,1,0,0,DT:*Line2*
 AB,143,97,1,1,0,0,Name:*Line3*
-Y144,13,Mebak Makine
+Y144,13,YourSimple
 XRB8,16,8,0,*Line4*
 *Line1*
 E
